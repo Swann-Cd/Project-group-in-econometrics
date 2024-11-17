@@ -1,5 +1,6 @@
 # Project-group-in-econometrics-2023-2024
-Analysis of Salary Determinants for Graduates of University Master’s Programs in France in 2017
+Analysis of Salary Determinants for Graduates of University Master’s Programs in France in 2017.\\
+
 Co-authors: Chen Xiaotian, Meunier Romain, Savejvong Théo. 
 - Project conducted to determine whether factors influence the salary of graduates from university master’s
 programs in France in 2022.
