@@ -6,3 +6,9 @@ Co-authors: Chen Xiaotian, Meunier Romain, Savejvong Théo.
 programs in France in 2022.
 - Statistical and econometric analysis of the influence of several factors such as field of study or master’s
 institution on salary at graduation from a university master’s program in France in 2022.
+
+git add docs/Project-group-econometrics.pdf
+git commit -m "Add document.pdf to the project"
+git push
+
+
