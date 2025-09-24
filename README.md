@@ -3,10 +3,11 @@
 Ce dépôt contient deux projets réalisés dans le cadre de mon parcours à la Toulouse School of Economics :  
 
 - **Analyse des déterminants du salaire net médian mensuel à la sortie d’un master universitaire en france en 2017**  
-  Projet effectué en Licence 3
+  Projet annuel réalisé en Licence 3
 
 - **Impact des politiques environnementales sur la productivité totale des facteurs des entreprises en Chine**  
-  Projet réalisé en Master 1
+  Projet annuel réalisé en Master 1
+
 
 
 
