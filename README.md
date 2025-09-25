@@ -1,6 +1,6 @@
-# Projets universitaires  
+# Projets universitaires d’économétrie appliquée
 
-Ce dépôt contient deux projets réalisés dans le cadre de mon parcours à la Toulouse School of Economics :  
+Ce dépôt contient deux projets d’économétrie appliquée réalisés dans le cadre de mon parcours à la Toulouse School of Economics :  
 
 - **Analyse des déterminants du salaire net médian mensuel à la sortie d’un master universitaire en france en 2017**  
   Projet annuel réalisé en Licence 3
