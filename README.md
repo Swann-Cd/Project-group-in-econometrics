@@ -1,4 +1,4 @@
-# Projets universitaires d’économétrie appliquée, menés comme de véritables projets de recherche académique
+# Projets d’économétrie appliquée, menés comme de véritables projets de recherche académique
 
 
 Ce dépôt contient deux projets d’économétrie appliquée réalisés dans le cadre de mon parcours à la Toulouse School of Economics :  
